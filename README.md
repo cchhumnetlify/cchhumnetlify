@@ -1,6 +1,6 @@
 README.md
 =========
-✨ A Guide for Communicating with Charlotte Chhum ✨
+✨ **A Guide for Communicating with Charlotte Chhum** ✨
 
 *Chhum: the "chh" is pronounced like the ch in "churn" and "chhum" rhymes with "gum".*
 
