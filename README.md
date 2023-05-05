@@ -13,16 +13,16 @@ What are your primary goals as a human being?
 
 - To create, and learn how to create 🧶
 - To celebrate those who bring me joy 🎀
-- To leave things a little bit better than the way I found them 🌈
+- To leave things a little bit better than the way I found them 🌤
 
 🥲 What do you want us to know about your communication style?
 ---
 - I am a 9 on the Enneagram scale: “The Peacemaker”. I seek to avoid conflict and create resolutions to keep social situations running smoothly.
-- I write better than I speak, and process written word better than audio. However, I form better relationships face-to-face (or Zoom). 
+- I write better than I speak, and process written word better than audio. However, I form better relationships face-to-face (or in Zoom). 
 
 🙃 What are some useful things to know in advance about your style?
 ---
-- In a work setting, I am a solid balance of finding the fun in things as well as getting down to business. Sometimes I can get down to business in a meeting too fast if many ideas/tasks/questions are racing in my mind. 
+- In a work setting, I am a solid balance of finding the fun in things as well as getting-down-to-business. Sometimes I can get down to business in a meeting too fast if many ideas/tasks/questions are racing in my mind. 
 - I come from a teaching background, so I appreciate entering projects and topics with organisation: measurable objectives, clearly-defined task assignments, and deadlines.
 - I learn best if I know “why” we use that method first. I often will work backward with my learning. For example, when learning to code, I need to see the end result project first before I can dive into the reference materials of functions and loops.
 
