@@ -19,6 +19,7 @@ What are your primary goals as a human being?
 ---
 - I am a 9 on the Enneagram scale: “The Peacemaker”. I seek to avoid conflict and create resolutions to keep social situations running smoothly.
 - I write better than I speak, and process written word better than audio. However, I form better relationships face-to-face (or in Zoom). 
+- I am somewhere inbetween introverted and extroverted. I don't mind big or small groups.
 
 🙃 What are some useful things to know in advance about your style?
 ---
